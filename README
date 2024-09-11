@@ -1,0 +1,6 @@
+# SNAKE MULTIPLAYER
+
+
+#### Based in the classic snake game, but in this case, I use Threads for implement Multiplayer.
+
+- The game use Threads, Snake Class, and using Java Swing.
